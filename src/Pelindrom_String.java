@@ -31,6 +31,8 @@ public class Pelindrom_String {
         }
         	System.out.println("updating using branch update");
 
+        	System.out.println("updating using STASH ");
+
 	}
 
 }
